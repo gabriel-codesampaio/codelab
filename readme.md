@@ -83,11 +83,10 @@ npx prisma studio
 
 ## 📖 User manual
 
-The user manual, for students and administrators, is in [manual/](manual/codelab-manual-da-plataforma). Each page is a Markdown file you can read here on GitHub. To edit it or export it as HTML or PDF, open it with [Explicaí Studio](https://github.com/gabriel-codesampaio/explicai-studio):
+- [Student manual (PDF, in Portuguese)](manual/manual-aluno.pdf)
+- [Administrator manual (PDF, in Portuguese)](manual/manual-admin.pdf)
 
-```bash
-npx explicai manual
-```
+Made with [Explicaí](https://github.com/gabriel-codesampaio/explicai-studio).
 
 ## 📄 License
 
