@@ -81,6 +81,14 @@ npx prisma migrate dev
 npx prisma studio
 ```
 
+## 📖 User manual
+
+The user manual, for students and administrators, is in [manual/](manual/codelab-manual-da-plataforma). Each page is a Markdown file you can read here on GitHub. To edit it or export it as HTML or PDF, open it with [Explicaí Studio](https://github.com/gabriel-codesampaio/explicai-studio):
+
+```bash
+npx explicai manual
+```
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).

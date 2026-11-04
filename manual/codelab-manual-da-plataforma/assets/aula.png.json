@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "markers": [
+    {
+      "id": "076d6070-a7ad-4ab8-80b1-0f37414cec31",
+      "n": 1,
+      "x": 0.451,
+      "y": 0.351,
+      "label": "Tocar vídeo"
+    },
+    {
+      "id": "7b26d4c5-ed5c-4d9c-bf2b-b10089f9078b",
+      "n": 2,
+      "x": 0.638,
+      "y": 0.758,
+      "label": "Responder"
+    }
+  ],
+  "highlights": [],
+  "arrows": [],
+  "hotspots": []
+}
